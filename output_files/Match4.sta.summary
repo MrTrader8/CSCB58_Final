@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -6.762
+TNS   : -165.988
+
+Type  : Slow 1200mV 85C Model Setup 'control:ctrl0|current_state.player2_wait'
+Slack : -1.249
+TNS   : -1.249
+
+Type  : Slow 1200mV 85C Model Setup 'control:ctrl0|current_state.player1_wait'
+Slack : -0.804
+TNS   : -0.804
+
+Type  : Slow 1200mV 85C Model Setup 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 32.842
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'control:ctrl0|current_state.player1_wait'
+Slack : 0.285
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.338
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'control:ctrl0|current_state.player2_wait'
+Slack : 0.799
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'control:ctrl0|current_state.player2_wait'
+Slack : 0.420
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'control:ctrl0|current_state.player1_wait'
+Slack : 0.451
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.629
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 19.707
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -6.016
+TNS   : -147.577
+
+Type  : Slow 1200mV 0C Model Setup 'control:ctrl0|current_state.player2_wait'
+Slack : -1.156
+TNS   : -1.156
+
+Type  : Slow 1200mV 0C Model Setup 'control:ctrl0|current_state.player1_wait'
+Slack : -0.763
+TNS   : -0.763
+
+Type  : Slow 1200mV 0C Model Setup 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 33.500
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'control:ctrl0|current_state.player1_wait'
+Slack : 0.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'control:ctrl0|current_state.player2_wait'
+Slack : 0.706
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'control:ctrl0|current_state.player1_wait'
+Slack : 0.434
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'control:ctrl0|current_state.player2_wait'
+Slack : 0.438
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.649
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 19.710
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -3.123
+TNS   : -77.153
+
+Type  : Fast 1200mV 0C Model Setup 'control:ctrl0|current_state.player2_wait'
+Slack : -0.312
+TNS   : -0.312
+
+Type  : Fast 1200mV 0C Model Setup 'control:ctrl0|current_state.player1_wait'
+Slack : -0.080
+TNS   : -0.080
+
+Type  : Fast 1200mV 0C Model Setup 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 36.491
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.141
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'control:ctrl0|current_state.player1_wait'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'control:ctrl0|current_state.player2_wait'
+Slack : 0.468
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'control:ctrl0|current_state.player2_wait'
+Slack : 0.363
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'control:ctrl0|current_state.player1_wait'
+Slack : 0.370
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.372
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|pll|clk[0]'
+Slack : 19.754
+TNS   : 0.000
+
+------------------------------------------------------------

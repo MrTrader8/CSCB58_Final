@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Apr 08 14:37:16 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : Match4
+Top-level Entity Name : Match4
+Family : Cyclone IV E
+Total logic elements : 236
+    Total combinational functions : 226
+    Dedicated logic registers : 88
+Total registers : 88
+Total pins : 118
+Total virtual pins : 0
+Total memory bits : 57,600
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
